@@ -453,11 +453,6 @@ $maxPoints = max($simulatedPoints);
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-
 ## Screenshots
 <div align="center">
     <img src="/screenshots/ss1.png" width="400px"</img> 
