@@ -459,9 +459,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 
 ## Screenshots
-     ![League Table](screenshots/ss1.png)
-     ![League Table](screenshots/ss2.png)
-     ![League Table](screenshots/ss3.png)
+    ![Example1](/screenshots/ss1.png?raw=true "Example 1")
+    ![Example1](/screenshots/ss2.png?raw=true "Example 2")
+    ![Example1](/screenshots/ss3.png?raw=true "Example 3")
+
+   
 
 
 ---
