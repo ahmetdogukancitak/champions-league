@@ -56,7 +56,7 @@ Open your terminal and run the following command to clone the repository:
 
 ```bash
 git clone https://github.com/ahmetdogukancitak/champions-league.git
-cd insider-champions-league
+cd champions-league
 ```
 
 ### 2. Install Backend Dependencies
