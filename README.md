@@ -55,11 +55,9 @@ Before you begin, ensure you have the following installed on your system:
 Open your terminal and run the following command to clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ahmetdogukancitak/champions-league.git
 cd insider-champions-league
 ```
-
-*Replace `<repository-url>` with the URL of your GitHub repository.*
 
 ### 2. Install Backend Dependencies
 
@@ -468,4 +466,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note:** Replace placeholders like `<repository-url>`, `your_database_username`, and `your_database_password` with your actual values.# champions-league
+**Note:** Replace placeholders like  `your_database_username`, and `your_database_password` with your actual values.# champions-league
