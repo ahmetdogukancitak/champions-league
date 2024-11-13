@@ -459,9 +459,16 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 
 ## Screenshots
-    ![Example1](screenshots/ss1.png)
-    ![Example2](screenshots/ss2.png)
-    ![Example3](screenshots/ss3.png)
+<div align="center">
+    <img src="/screenshots/ss1.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/ss2.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/ss3.png" width="400px"</img> 
+</div>
+
 
    
 
